@@ -1,0 +1,23 @@
+wikipedia==1.4.0
+requests==2.27.1
+geocoder==1.38.1
+pyjokes==0.6.0
+bs4==0.0.1
+beautifulsoup4==4.10.0
+numpy==1.18.2
+nltk==3.7
+tensorflow==2.3.0
+pywhatkit==5.3
+keyboard==0.13.5
+playsound==1.2.2
+speechRecognition==3.8.1
+flask==2.0.3
+pyaudio==0.2.11
+gtts==2.2.4
+googletrans==3.1.0a0
+pynput==1.7.6
+pydub==0.25.1
+mutagen==1.45.1
+lxml==4.8.0
+pyqt5==5.15.6
+# pydictionary==2.0.1

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="BgImg">
+    <file>../../../../../../Desktop/BgForSplashScreen.jpg</file>
+  </qresource>
+</RCC>

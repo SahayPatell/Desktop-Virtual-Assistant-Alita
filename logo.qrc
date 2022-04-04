@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>../../../../../../Desktop/bgimageQt.png</file>
+    <file>../../../../../User-removebg-preview.png</file>
+    <file>../../../../../../Desktop/Feedback.jpg</file>
+  </qresource>
+</RCC>
